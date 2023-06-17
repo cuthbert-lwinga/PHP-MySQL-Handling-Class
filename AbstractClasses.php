@@ -8,14 +8,14 @@ abstract class UserType
 
 abstract class UserConnection
 {
-    const username = "Cuthbert";
-    const password = "Cuthbert1997%";
+    const username = "adwefsdf";
+    const password = "11111111111";
 }
 
 abstract class AdminConnection
 {
-    const name = "Cuthbert";
-    const password = "Cuthbert1997%";
+    const name = "sdfsdfsdfsdfsdf";
+    const password = "11111111111";
 }
 
 abstract class Database
