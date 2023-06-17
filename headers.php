@@ -1,0 +1,9 @@
+<?PHP
+include_once("AbstractClasses.php");
+include_once("MySqlKeyword.php");
+include_once("Table.php");
+include_once("TableColumn.php");
+include_once("MySql.php");
+include_once("IException.php");
+include_once("Utility.php");
+?>
